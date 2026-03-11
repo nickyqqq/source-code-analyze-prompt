@@ -37,7 +37,7 @@ A clear, professional description of the vulnerability and what it enables an at
 Specify exact file paths, line numbers, code sections, and any relevant version information from the repository.
 
 ### Steps to Reproduce
-A clear, step-by-step technical guide for demonstrating and exploiting the vulnerability. Make this actionable and detailed enough for a security professional to verify independently.
+A clear, step-by-step technical guide for demonstrating and exploiting the vulnerability. Begin from lab setup and progress through to full exploitation. Make each step concrete, actionable, and simple enough for a security professional to verify independently without ambiguity.
 
 ### Fix Recommendation
 Concrete, implementable guidance for patching or mitigating the vulnerability. Include code-level suggestions and implementation details where applicable.
